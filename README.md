@@ -20,7 +20,8 @@ Welcome to **VDO Video Player** – your sleek and minimalistic video-watching c
 
 🚀 **Ready to elevate your viewing experience?** Let VDO Video Player handle the show! 🌟
 
-📥 **![Download](https://github.com/xantofc/VDO-video-player/releases/download/%F0%9F%94%A5/VDO.Video.Player.Setup.1.0.0.exe) now and press play!** ▶️
+[📥 **Download Now**](https://github.com/xantofc/VDO-video-player/releases/download/%F0%9F%94%A5/VDO.Video.Player.Setup.1.0.0.exe) ▶️ *and press play!*
+
 
 💡 *Feedback? Ideas?* Let us know and help us make VDO even better! 💌
 
