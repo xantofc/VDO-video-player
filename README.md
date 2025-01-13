@@ -10,10 +10,10 @@ Welcome to **VDO Video Player** – your sleek and minimalistic video-watching c
 
 📸 **Sneak Peek:**
 
-[![🟢 Open](https://github.com/xantofc/VDO-video-player/blob/main/Screenshot%20(18).png?raw=true)]  
-[![🖥️ Fullscreen](https://github.com/xantofc/VDO-video-player/blob/main/Screenshot%20(19).png?raw=true)]  
-[![📂 Select Folder](https://github.com/xantofc/VDO-video-player/blob/main/Screenshot%20(20).png?raw=true)]  
-[![▶️ Click to Play](https://github.com/xantofc/VDO-video-player/blob/main/Screenshot%20(21).png?raw=true)]  
+![🟢 Open](https://github.com/xantofc/VDO-video-player/blob/main/Screenshot%20(18).png?raw=true)
+![🖥️ Fullscreen](https://github.com/xantofc/VDO-video-player/blob/main/Screenshot%20(19).png?raw=true)  
+![📂 Select Folder](https://github.com/xantofc/VDO-video-player/blob/main/Screenshot%20(20).png?raw=true)  
+![▶️ Click to Play](https://github.com/xantofc/VDO-video-player/blob/main/Screenshot%20(21).png?raw=true)  
 
 
 ---
