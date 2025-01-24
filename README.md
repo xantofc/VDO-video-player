@@ -6,7 +6,6 @@ Welcome to **VDO Video Player** – your sleek and minimalistic video-watching c
 - 🖥️ **Minimal UI:** Clean, simple, and distraction-free.
 - 🎞️ **Smooth Playback:** Enjoy videos without lag.
 - 🎨 **Modern Design:** A stylish and intuitive interface.
-- 🔊 **Crystal Clear Sound:** Immerse yourself in every beat!
 
 📸 **Sneak Peek:**
 
